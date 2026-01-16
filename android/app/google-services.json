@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408408814440",
+    "project_id": "carby-9911a",
+    "storage_bucket": "carby-9911a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408408814440:android:dfcb1df943c445727adcdd",
+        "android_client_info": {
+          "package_name": "com.najdalmotatorh.carby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJAZ3VEH6Z-EQszzpUatDG6tzosFsILEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
